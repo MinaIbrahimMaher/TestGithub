@@ -10,7 +10,7 @@ namespace GithubTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Morsy Mina");
+            Console.WriteLine("Morsy Mina Ali");
             Console.WriteLine("Mina");
             Console.WriteLine("MinaBranch");
             Console.WriteLine("MinaBranch2");
