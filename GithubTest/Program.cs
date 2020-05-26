@@ -12,6 +12,8 @@ namespace GithubTest
         {
             Console.WriteLine("Morsy");
             Console.WriteLine("Mina");
+            Console.WriteLine("MinaBranch");
+            Console.WriteLine("MinaBranch2");
 
         }
     }
